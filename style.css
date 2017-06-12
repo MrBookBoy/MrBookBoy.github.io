@@ -1,0 +1,32 @@
+body {
+    
+    background-color: #12FF87;
+    font-family: 'Bubbler One', 'sans-serif'
+    color
+}
+a:hover {
+    opacity: 0.5;
+}
+a {
+    color: blueviolet;
+    text-decoration: none;
+    font-family: "Bubbler One";
+}
+b {
+    color: mediumvioletred;
+    text-decoration: underline;
+}
+c {
+    color: coral;
+    text-decoration: inherit;
+    font-weight: 300;
+}
+h1 {
+    color: #d90d93;
+    font-family: "Bubbler One"; 
+}
+ac {
+    color: darkgoldenrod;
+    text-decoration: none;
+}
+img { width:175px; }
