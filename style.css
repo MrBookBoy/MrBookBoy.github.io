@@ -1,32 +1,48 @@
 body {
     
-    background-color: #12FF87;
-    font-family: 'Bubbler One', 'sans-serif'
-    color
-}
-a:hover {
-    opacity: 0.5;
-}
-a {
-    color: blueviolet;
-    text-decoration: none;
-    font-family: "Bubbler One";
-}
-b {
-    color: mediumvioletred;
-    text-decoration: underline;
-}
-c {
-    color: coral;
-    text-decoration: inherit;
-    font-weight: 300;
+    background-image: url('Coffee%20Beans.jpeg');
+    font-family: 'Bubbler One', 'sans-serif', 'Mogra','PT Sans';
+    color: aliceblue
 }
 h1 {
-    color: #d90d93;
-    font-family: "Bubbler One"; 
+    font-family: "Mogra";
 }
-ac {
-    color: darkgoldenrod;
-    text-decoration: none;
+img {
+    max-height: 150px;
 }
-img { width:175px; }
+header img{
+    max-height: 200px;
+    transform: translate(-50%,0);
+    left: 50%;
+    position: relative;
+}
+ul {
+    list-style: none;
+}
+#container {
+    background-color: rgb(13, 145, 70);
+    opacity: 80%;
+    width: 50%;
+    transform: translate(50%);
+    height: 850px;
+}
+p {
+    color: black;
+    padding-left: 30px;
+    padding-top: 10px
+}
+header {
+    padding-left: 30px;
+}
+a {
+    color: black;
+}
+a:hover{
+    opacity: 0.5;
+}
+p1 {
+    font-size: 20px;
+    font-family: "PT Sans";
+    padding-left: 30px;
+    
+}
