@@ -22,7 +22,7 @@ ul {
     opacity: 80%;
     width: 50%;
     transform: translate(50%);
-    height: 1200px;
+    height: 1350px;
 }
 p {
     color: black;
@@ -98,4 +98,5 @@ header img {
     position: relative;
     display: block;
     padding-top: 10px;
+    padding-bottom: 
 }
