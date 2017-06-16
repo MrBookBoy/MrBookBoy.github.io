@@ -1,7 +1,7 @@
 body {
     
     background-image: url('Coffee%20Beans.jpeg');
-    font-family: 'Bubbler One', 'sans-serif', 'Mogra','PT Sans';
+    font-family: 'Bubbler One', 'sans-serif', 'Mogra','PT Sans'.'Lekton', 'Josefin Sans';
     color: aliceblue
 }
 h1 {
@@ -22,7 +22,7 @@ ul {
     opacity: 80%;
     width: 50%;
     transform: translate(50%);
-    height: 850px;
+    height: 1200px;
 }
 p {
     color: black;
@@ -75,4 +75,27 @@ header img {
         display: none;
         visibility: hidden;
     }
+}
+#p2 {
+    font-family: "Lekton"
+}
+#p3 {
+    
+}
+.img3 {
+    max-height: 200px;
+    position: relative;
+    padding-bottom: 10px;
+    display: block;
+}
+.img4 {
+    max-height: 150px;
+    position: relative;
+    display: block;
+}
+.img5 {
+    max-height: 150px;
+    position: relative;
+    display: block;
+    padding-top: 10px;
 }
